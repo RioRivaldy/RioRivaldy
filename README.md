@@ -15,8 +15,8 @@ I've enjoyed to learn about technology, especially arduino project and make some
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/RioRivaldy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RioRivaldy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RioRivaldy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="480cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
