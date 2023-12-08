@@ -22,7 +22,7 @@ I've enjoyed to learn about technology, especially arduino project and make some
 
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/mario-rivaldy/">LinkedIn</a>
+- <a href="www.linkedin.com/in/mario-rivaldy-98857a236">LinkedIn</a>
 - <a href="https://github.com/RioRivaldy/">Github</a>
 - <a href="https://www.instagram.com/rio_8009/">Instagram</a>
 
