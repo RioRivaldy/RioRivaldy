@@ -9,7 +9,7 @@ I've enjoyed to learn about technology, especially arduino project and make some
 <a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML" width="35px"></a>
 <a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="35px"></a>
 <a href="https://www.cisco.com"><img allign="left" src="https://www.pngmart.com/files/23/Cisco-Logo-PNG-Image.png" alt="Cisco" width="35px"></a>
-<a href="https://www.cisco.com"><img allign="left" src="https://www.pngwing.com/en/search?q=figma" alt="Figma" width="35px"></a>
+<a href="https://www.figma.com"><img allign="left" src="https://www.pngwing.com/en/search?q=figma" alt="Figma" width="35px"></a>
 <br>
 <br>
 
