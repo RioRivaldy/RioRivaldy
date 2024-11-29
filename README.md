@@ -10,7 +10,7 @@ I've enjoyed to learn about technology, especially arduino project and make some
 <a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="35px"></a>
 <a href="https://www.cisco.com"><img allign="left" src="https://www.pngmart.com/files/23/Cisco-Logo-PNG-Image.png" alt="Cisco" width="35px"></a>
 <a href="https://www.figma.com"><img allign="left" src="https://seeklogo.com/images/F/figma-logo-3C82F1B96E-seeklogo.com.png" alt="Figma" height="35px" width="100px"></a>
-<a href="https://www.canva.com"><img allign="left" src="https://e7.pngegg.com/pngimages/472/750/png-clipart-canva-new-logo-tech-companies.png" alt="Canva" width="70px"></a>
+<a href="https://www.canva.com"><img allign="left" src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo-2013-2021-700x394.png" alt="Canva" width="70px"></a>
 <br>
 <br>
 
