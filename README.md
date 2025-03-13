@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mario Rivaldy
-A student Computer System and graduated from Diploma 3 (D3) Computer Engineering at Gunadarma University. I'm also currently active as a Robotics Laboratory Assistant at Muro Lab at Gunadarma University. 
+A student graduated from Bachelor's Computer System and Diploma 3 (D3) Computer Engineering at Gunadarma University. I'm also currently active as a Robotics Laboratory Assistant at Muro Lab at Gunadarma University when i was a student of Gunadarma University. 
 I've enjoyed to learn about technology, especially arduino project and make some innovation in every single day.
 
 - 🌱 I’m currently learning about Back-End for apps or database and networking
