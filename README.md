@@ -9,7 +9,7 @@ I've enjoyed to learn about technology, especially arduino project and make some
 <a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML" width="35px"></a>
 <a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="35px"></a>
 <a href="https://www.cisco.com"><img allign="left" src="https://www.pngmart.com/files/23/Cisco-Logo-PNG-Image.png" alt="Cisco" width="35px"></a>
-<a href="https://www.figma.com"><img allign="left" src="https://seeklogo.com/images/F/figma-logo-3C82F1B96E-seeklogo.com.png" alt="Figma" height="35px" width="100px"></a>
+<a href="https://www.figma.com"><img allign="left" src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma" height="35px" width="100px"></a>
 <a href="https://www.canva.com"><img allign="left" src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo-2013-2021-700x394.png" alt="Canva" width="70px"></a>
 <br>
 <br>
@@ -24,7 +24,7 @@ I've enjoyed to learn about technology, especially arduino project and make some
 
 
 ### Reach me on
-- <a href="www.linkedin.com/in/mario-rivaldy-98857a236">LinkedIn</a>
+- <a href="www.linkedin.com/in/mariorivaldy">LinkedIn</a>
 - <a href="https://github.com/RioRivaldy/">Github</a>
 - <a href="https://www.instagram.com/rio_8009/">Instagram</a>
 
