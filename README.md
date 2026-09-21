@@ -48,8 +48,10 @@ I've enjoyed to learn about technology, especially arduino project and make some
 </a>
 </p> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RioRivaldy&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&theme=radium)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RioRivaldy&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&theme=radium)
 
 ### 🔗 Connect with me
 
