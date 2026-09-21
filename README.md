@@ -56,6 +56,11 @@ I've enjoyed to learn about technology, especially arduino project and make some
 - <a href="https://github.com/RioRivaldy/">Github</a>
 - <a href="https://www.instagram.com/rio_8009/">Instagram</a>
 
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariorivaldy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white)]([LINK_WEBSITE_ATAU_PORTFOLIO_ANDA])
+
 <!--
 **RioRivaldy/RioRivaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
