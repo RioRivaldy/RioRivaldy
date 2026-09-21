@@ -5,6 +5,17 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 
 ---
 
+## 🚀 Currently Learning & Exploring
+
+tech
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   ⚙️  BACK-END DEVELOPMENT   ──►   Building scalable APIs & services     │
+│   🗄️  DATABASE MANAGEMENT   ──►   Relational & Non-Relational DBs      │
+│   🌐  NETWORKING             ──►   Network Architecture & Infrastructure  │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
 ### 🛠️ Tech Stacks
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
