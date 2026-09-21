@@ -14,6 +14,11 @@ I've enjoyed to learn about technology, especially arduino project and make some
 <br>
 <br>
 
+*   **Bahasa Pemrograman:** [Python, JavaScript, TypeScript, Bash, Java]
+*   **Frameworks & Libraries:** [React.js, Node.js, Express, Django, Spring Boot]
+*   **Database:** [MySQL, PostgreSQL, MongoDB, Redis]
+*   **DevOps & Infrastruktur:** [Git, Docker, Kubernetes, AWS, Linux/Ubuntu, CI/CD]
+
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/RioRivaldy">
