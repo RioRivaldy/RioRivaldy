@@ -55,7 +55,7 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariorivaldy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white)]([LINK_WEBSITE_ATAU_PORTFOLIO_ANDA])
+[![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white)](https://mariorivaldy.netlify.app/)
 
 <!--
 **RioRivaldy/RioRivaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
