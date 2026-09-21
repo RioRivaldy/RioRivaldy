@@ -8,7 +8,7 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 ### 🚀 Currently Learning & Exploring
 <img src="https://img.shields.io/badge/📊_DATA_SCIENCE-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Data Science" />
 <img src="https://img.shields.io/badge/🎨_FRONT--END-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front End" />
-     
+<br>
 
 ### 🛠️ Tech Stacks
 **Languages:**  
