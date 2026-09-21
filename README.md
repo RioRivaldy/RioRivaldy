@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Mario Rivaldy
-A student graduated from Bachelor's Computer System and Diploma 3 (D3) Computer Engineering at Gunadarma University. I'm also currently active as a Robotics Laboratory Assistant at Muro Lab at Gunadarma University when i was a student of Gunadarma University. 
-I've enjoyed to learn about technology, especially arduino project and make some innovation in every single day.
+A Bachelor's graduate in Computer System and D3 Computer Engineering from Gunadarma University. Currently sharing passion and knowledge for technology as a **Coding & IT Teacher**.
 
-- 🌱 I’m currently learning about Back-End for apps or database and networking
+I enjoy exploring technology, creating Arduino-based innovations, and continuous learning every single day.
 
-### Tech Stacks
+---
+
+### 🛠️ Tech Stacks
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
