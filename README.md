@@ -48,6 +48,8 @@ I've enjoyed to learn about technology, especially arduino project and make some
 </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=radium)
 
 ### Reach me on
 - <a href="www.linkedin.com/in/mariorivaldy">LinkedIn</a>
