@@ -8,7 +8,7 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 ### 🚀 Currently Learning & Exploring
 <img src="https://img.shields.io/badge/📊_DATA_SCIENCE-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Data Science" />
 <img src="https://img.shields.io/badge/🎨_FRONT--END-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front End" />
-<br>
+---
 
 ### 🛠️ Tech Stacks
 **Languages:**  
@@ -39,6 +39,7 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+---
 
 ### 📊 Github Statistics
 <p align="left">
@@ -47,9 +48,9 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+---
 
 ### 🔗 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariorivaldy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white)]([LINK_WEBSITE_ATAU_PORTFOLIO_ANDA])
 
