@@ -5,12 +5,6 @@ I've enjoyed to learn about technology, especially arduino project and make some
 - 🌱 I’m currently learning about Back-End for apps or database and networking
 
 ### Tech Stacks
-<!-- <a href="https://www.arduino.cc/"><img allign="left" src="https://www.nesabamedia.com/wp-content/uploads/2019/07/Arduino-IDE-Logo-1.png" alt="Arduino IDE" width="35px"></a>
-<a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML" width="35px"></a>
-<a href="https://"><img allign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="35px"></a>
-<a href="https://www.cisco.com"><img allign="left" src="https://www.pngmart.com/files/23/Cisco-Logo-PNG-Image.png" alt="Cisco" width="35px"></a>
-<a href="https://www.figma.com"><img allign="left" src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma" height="35px" width="35px"></a>
-<a href="https://www.canva.com"><img allign="left" src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo-2013-2021-700x394.png" alt="Canva" width="70px"></a> -->
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,17 +35,12 @@ I've enjoyed to learn about technology, especially arduino project and make some
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ### 📊 Github Statistics
-<!-- <p align="left">
+<p align="left">
 <a href="https://github.com/RioRivaldy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RioRivaldy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p> -->
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RioRivaldy&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&theme=radium)
+</p>
 
 ### 🔗 Connect with me
 
