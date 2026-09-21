@@ -5,16 +5,10 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 
 ---
 
-## 🚀 Currently Learning & Exploring
-
-tech
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   ⚙️  BACK-END DEVELOPMENT   ──►   Building scalable APIs & services     │
-│   🗄️  DATABASE MANAGEMENT   ──►   Relational & Non-Relational DBs      │
-│   🌐  NETWORKING             ──►   Network Architecture & Infrastructure  │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+### 🚀 Currently Learning & Exploring
+⚡ Current Focus Stack:
+├── 📊 Data Science   
+└── 🎨 Front-End      
 
 ### 🛠️ Tech Stacks
 **Languages:**  
