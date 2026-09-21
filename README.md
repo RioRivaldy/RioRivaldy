@@ -6,9 +6,36 @@ I enjoy exploring technology, creating Arduino-based innovations, and continuous
 ---
 
 ### 🚀 Currently Learning & Exploring
-⚡ Current Focus Stack:
-├── 📊 Data Science   
-└── 🎨 Front-End      
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/📊_DATA_SCIENCE-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Data Science" />
+      <br/><br/>
+      <p align="left">
+        <b>Focusing on:</b><br/>
+        • Data Analysis & Visualization<br/>
+        • Machine Learning Basics<br/>
+        • Python, Pandas & NumPy
+      </p>
+      <img src="https://geps.dev/progress/65?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" alt="Data Science Progress" width="80%" />
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/🎨_FRONT--END-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Front End" />
+      <br/><br/>
+      <p align="left">
+        <b>Focusing on:</b><br/>
+        • Responsive Web Design<br/>
+        • Interactive User Interfaces<br/>
+        • React & Tailwind CSS
+      </p>
+      <img src="https://geps.dev/progress/70?dangerColor=61DAFB&warningColor=61DAFB&successColor=61DAFB" alt="Front End Progress" width="80%" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>  
 
 ### 🛠️ Tech Stacks
 **Languages:**  
