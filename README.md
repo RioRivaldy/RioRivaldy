@@ -40,23 +40,18 @@ I've enjoyed to learn about technology, especially arduino project and make some
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-### Github Statistics
-<p align="left">
+### 📊 Github Statistics
+<!-- <p align="left">
 <a href="https://github.com/RioRivaldy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RioRivaldy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RioRivaldy&show_icons=true&theme=radium)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioRivaldy&layout=compact&theme=radium)
 
-### Reach me on
-- <a href="www.linkedin.com/in/mariorivaldy">LinkedIn</a>
-- <a href="https://github.com/RioRivaldy/">Github</a>
-- <a href="https://www.instagram.com/rio_8009/">Instagram</a>
-
-## 🔗 Connect with me
+### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariorivaldy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white)]([LINK_WEBSITE_ATAU_PORTFOLIO_ANDA])
